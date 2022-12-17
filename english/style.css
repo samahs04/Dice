@@ -41,3 +41,10 @@ img{
 .btn:hover{
     background-color:#690104 ;
 }
+@media (max-width : 1000px) {
+  .chooseLng{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
