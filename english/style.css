@@ -41,7 +41,7 @@ img{
 .btn:hover{
     background-color:#690104 ;
 }
-@media (max-width : 1000px) {
+@media (max-width : 800px) {
   .chooseLng{
     display: flex;
     align-items: center;
