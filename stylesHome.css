@@ -1,0 +1,41 @@
+@font-face {
+  font-family: 'kalameh';
+  src: url(fontPersian/Kalameh_Bold.ttf) format('truettype');
+  src: url(fontPersian/KalamehWeb_Bold.woff) format('woff');
+}
+body{
+  background-color: #393E46;
+}
+.container{
+  text-align: center;
+  color: #4ECCA3;
+}
+h1{
+  font-family: 'Lobster', cursive;
+  font-size: 5rem;
+  margin-top: 150px ;
+}
+h2{
+  font-family: "kalameh";
+  font-size: 4rem;
+}
+button{
+  width: 150px;
+  height: 50px;
+  font-size: 1.75rem;
+  background-color: #9C060C;
+  font-family: "kalameh";
+  border-radius: 15px;
+  border: 0;
+  margin: 30px 0 0 20px;
+}
+a{
+  color: white;
+  text-decoration:none;
+}
+button:hover{
+  width: 170px;
+  height: 60px;
+  font-size: 1.90rem;
+  background-color: #690104;
+}
